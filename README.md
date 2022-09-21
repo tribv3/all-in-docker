@@ -6,3 +6,5 @@
 4. Học Docker qua => https://xuanthulab.net/docker/
 5. Học Docker trên Youtube => https://www.youtube.com/results?search_query=docker
 6. Chia sẻ về Docker => https://blogd.net/docker/container-la-gi/
+
+... update 21/09/2022...
